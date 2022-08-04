@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Alessandro Quattrociocchi @qtt-alessandro
 - GitHub: @qtt-alessandro
-- I’m looking to collaborate on biological and neural models, data mining and artificial intelligence(Python and R mainly).
 - Currently attending the Master Degree in Data Science at "La Sapienza".
 - 📫 alessandro.quattrociocchi@gmail.com
